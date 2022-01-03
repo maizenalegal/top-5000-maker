@@ -12,6 +12,6 @@ I got inspired to make this program when i saw a [Top 5000 Cheeses](https://cdn.
 
  1. Install Python
  2. Install the requirements using `pip install -r requirements.txt`
- 3. Open main.py file using 
+ 3. Open main.py file using `python main.py`
  4. Have fun
 
