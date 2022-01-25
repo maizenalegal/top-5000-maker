@@ -1,7 +1,7 @@
 # Top 5000 Maker
 Makes a top 5000 video using Python and OpenCV
 # What?
-This Python program makes a top 5000 video using Python and OpenCV.
+This Python program searches for images on Google, Bing and Baidu and puts these images on a video. And no, it doesn't rank the images with some sort of AI.
 I got inspired to make this program when i saw a [Top 5000 Cheeses](https://cdn.discordapp.com/attachments/433115308727992321/892257820274208808/YouCut_20210916_143800443.mp4) video on Discord.
 
 # Examples
